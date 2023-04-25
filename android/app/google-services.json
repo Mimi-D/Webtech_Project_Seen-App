@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260982386941",
+    "project_id": "electionssystem-381414",
+    "storage_bucket": "electionssystem-381414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260982386941:android:02b6b6321624c76e9a8e94",
+        "android_client_info": {
+          "package_name": "com.example.finalproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260982386941-rr36mpenrph9arf7ajt6p70mtdccfmp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aJ_gRxU15yd39nztjYNAKXKvxXqnils"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260982386941-rr36mpenrph9arf7ajt6p70mtdccfmp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260982386941-ijdk0krib1leheh0ve6vpvbhmff27u2o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seen.seen",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
